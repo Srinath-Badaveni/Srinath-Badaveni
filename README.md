@@ -1,5 +1,5 @@
 # Srinath Badaveni 🚀  
-### Full-Stack Developer | AI Enthusiast | Problem Solver  
+### Full-Stack Developer | AI Enthusiast
 
 ---
 
