@@ -65,13 +65,6 @@ I build **scalable backend systems** and **AI-driven applications** that solve r
 
 ---
 
-## 📊 GitHub Analytics  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinath-Badaveni&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-Badaveni&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌍 Interests  
 
 - 🏞️ Exploring new places & local experiences  
