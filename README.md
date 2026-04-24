@@ -1,52 +1,94 @@
-# Hi there, I'm Srinath Badaveni! 👋
-
-### 👨‍🎓 About Me
-I'm **Srinath**, a 3rd-year Computer Science student at TKR College of Engineering and Technology in Hyderabad, India. I am a Full-Stack Developer and AI Enthusiast passionate about building intelligent systems and scalable backend architectures.
-
-> "Building the future, one commit at a time."
+# Srinath Badaveni 🚀  
+### Full-Stack Developer | AI Enthusiast | Problem Solver  
 
 ---
 
-### 🌐 Career Roadmap
-* 📌 **Specializing in:** AI/ML Pipelines (Neural Networks & Reinforcement Learning).
-* 💻 **Working on:** High-traffic system architectures using FastAPI and Node.js.
-* 🚀 **DevOps Journey:** Mastering Docker, Jenkins, and CI/CD automation.
+## 👨‍💻 About Me  
+I’m **Srinath**, a 4th-year Computer Science student based in Hyderabad, India.  
+I build **scalable backend systems** and **AI-driven applications** that solve real-world problems.
 
-### 📖 Learning Focus
-* ⏳ **Data Structures & Algorithms** (Solving 200+ problems on NXT Wave)
-* ⏳ **ServiceNow & Salesforce** (Cloud Administration & Development)
-* ⏳ **Three.js** (Immersive 3D Web Visualizations)
+⚡ I enjoy turning complex ideas into practical, production-ready solutions.  
+🧠 Currently focused on combining **AI + System Design + Web Engineering**.
 
----
-
-### 🌟 Featured Projects
-
-**✅ SnapMark AI**
-*Python • FastAPI • Dlib • Scikit-Learn • Supabase*
-* A dual-biometric ML pipeline that combines face embeddings and voice encodings for multi-student identification. Optimized with LRU caching to cut verification latency by 40%.
-
-**🏥 CareConnect**
-*Node.js • Express.js • MongoDB • Socket.io • React.js*
-* A full-stack healthcare management system with role-based dashboards. Integrated real-time bidirectional notifications for seamless doctor-patient scheduling.
-
-**🏠 Shiftly (3D-View)**
-*React.js • Three.js • Hugin CLI • Node.js*
-* A real estate visualization tool featuring 360-degree room captures and automated image stitching for immersive property walkthroughs.
-
-**💰 FinTracker**
-*Node.js • MongoDB • Chart.js • SQL*
-* A personal finance application utilizing MongoDB aggregation pipelines to transform raw transaction data into actionable financial literacy insights.
+> _"Code with purpose. Build with impact."_
 
 ---
 
-### 📊 GitHub Stats
+## 🧭 Career Direction  
 
-![Srinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srinath-Badaveni&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-Badaveni&layout=compact&theme=radical)
+- 🎯 **Core Focus:** AI/ML Systems & Intelligent Applications  
+- 🏗️ **Backend Engineering:** High-performance APIs (FastAPI, Node.js)  
+- ⚙️ **DevOps Growth:** Docker • CI/CD • Automation Pipelines  
+- 📈 **Goal:** Build scalable systems that handle real-world traffic  
 
 ---
 
-### ☕ Interests
-Outside of coding, I enjoy **sightseeing local landmarks**, exploring **theatrical 3D cinema**, and keeping up with the latest in **Generative AI**. I’m always looking to collaborate on open-source projects or talk tech!
+## 📚 Currently Learning  
 
-**Thank you for visiting my profile! Feel free to connect or reach out ✉️**
+- 🧩 Data Structures & Algorithms (200+ problems solved)  
+- ☁️ ServiceNow & Salesforce Ecosystems  
+- 🌐 Three.js for interactive 3D web experiences  
+
+---
+
+## 🚀 Projects  
+
+### 🔹 SnapMark AI  
+**Python • FastAPI • Dlib • Scikit-Learn • Supabase**  
+- Built a **dual-biometric authentication system** (face + voice)  
+- Reduced verification latency by **40% using LRU caching**  
+- Designed for multi-user real-time identification  
+
+---
+
+### 🔹 CareConnect  
+**Node.js • Express • MongoDB • Socket.io • React**  
+- Developed a **real-time healthcare platform**  
+- Implemented role-based dashboards for doctors & patients  
+- Enabled **live notifications & scheduling system**  
+
+---
+
+### 🔹 Shiftly (3D View)  
+**React • Three.js • Node.js • Hugin CLI**  
+- Created immersive **360° property visualization platform**  
+- Automated panorama stitching for seamless experience  
+- Focused on modern UI + interactive design  
+
+---
+
+### 🔹 FinTracker  
+**Node.js • MongoDB • Chart.js • SQL**  
+- Built a **personal finance dashboard**  
+- Used MongoDB aggregation for actionable insights  
+- Visualized spending patterns for better decision-making  
+
+---
+
+## 📊 GitHub Analytics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinath-Badaveni&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-Badaveni&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Interests  
+
+- 🏞️ Exploring new places & local experiences  
+- 🎬 3D cinematic technologies & visuals  
+- 🤖 Generative AI & future tech trends  
+
+---
+
+## 🤝 Let's Connect  
+
+I’m open to:  
+- Collaboration on **AI & Full-Stack projects**  
+- Open-source contributions  
+- Tech discussions & idea building  
+
+📩 Feel free to reach out — always happy to connect!
+
+---
+
+⭐ _If you like my work, consider giving a star to my repositories!_
