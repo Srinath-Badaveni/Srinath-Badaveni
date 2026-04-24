@@ -25,9 +25,9 @@ I build **scalable backend systems** and **AI-driven applications** that solve r
 
 ## 📚 Currently Learning  
 
-- 🧩 Data Structures & Algorithms (200+ problems solved)  
-- ☁️ ServiceNow & Salesforce Ecosystems  
-- 🌐 Three.js for interactive 3D web experiences  
+- 🤖 Artificial Intelligence & Machine Learning (Core Concepts + Projects)  
+- 🧩 Data Structures & Algorithms (200+ problems solved, problem-solving focus)  
+- 📊 Deep Learning & Model Optimization (Neural Networks, TensorFlow/PyTorch basics)  
 
 ---
 
