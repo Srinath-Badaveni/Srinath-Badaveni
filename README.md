@@ -49,14 +49,6 @@ I build **scalable backend systems** and **AI-driven applications** that solve r
 
 ---
 
-### 🔹 Shiftly (3D View)  
-**React • Three.js • Node.js • Hugin CLI**  
-- Created immersive **360° property visualization platform**  
-- Automated panorama stitching for seamless experience  
-- Focused on modern UI + interactive design  
-
----
-
 ### 🔹 FinTracker  
 **Node.js • MongoDB • Chart.js • SQL**  
 - Built a **personal finance dashboard**  
